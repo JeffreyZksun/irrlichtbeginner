@@ -1,0 +1,5 @@
+Irrlicht.Net 
+Description: Irrlicht.Net is a wrapper around Irrlicht 1.7.2
+Home Page: http://irrlichtdotnet.codeplex.com/
+Version: v0.2
+Consumption Date: 2011-5-7
