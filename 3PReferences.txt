@@ -3,3 +3,9 @@ Description: Irrlicht.Net is a wrapper around Irrlicht 1.7.2
 Home Page: http://irrlichtdotnet.codeplex.com/
 Version: v0.2
 Consumption Date: 2011-5-7
+
+Irrlicht
+Description: The Irrlicht Engine is an open source high performance realtime 3D engine written and usable in C++. It is completely cross-platform, using D3D, OpenGL and its own software renderer, and has all of the state-of-the-art features which can be found in commercial 3d engines.
+Home Page: http://irrlicht.sourceforge.net
+Version: v1.7.2
+Consumption Date: 2011-5-8
