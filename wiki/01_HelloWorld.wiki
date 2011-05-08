@@ -12,3 +12,5 @@
   * Linker|Input Page
     * Additional Dependencies = `Irrlicht.lib`
  # Add code to main() function to implement the functions.
+ # Copy the dynamic linked files to out folder.
+  * Copy Irrlicht.dll, sydney.md2, sydney.bmp to output folder.
