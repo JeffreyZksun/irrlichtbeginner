@@ -1,6 +1,9 @@
 // 01.HelloWorld.cpp : Defines the entry point for the console application.
 //
 
+/*
+See http://code.google.com/p/irrlichtbeginner/wiki/01_HelloWorld to get the detail steps for this project.
+*/
 #include "stdafx.h"
 #include <irrlicht.h>
 
