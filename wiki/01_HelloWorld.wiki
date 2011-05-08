@@ -6,9 +6,9 @@
     * Output Directory = `$(SolutionDir)bin\$(ConfigurationName)`
     * Intermediate Directory = `$(SolutionDir)bin\$(ProjectName)\$(ConfigurationName)`
   * C/C++|General Page
-    * Additional Include Directories = ..\3p\Irrlicht\include
+    * Additional Include Directories = `..\3p\Irrlicht\include`
   * Linker|General Page
-    * Additional Library Directories= "..\3p\Irrlicht\lib\Win32-visualstudio"
+    * Additional Library Directories= `..\3p\Irrlicht\lib\Win32-visualstudio`
   * Linker|Input Page
-    * Additional Dependencies = Irrlicht.lib
+    * Additional Dependencies = `Irrlicht.lib`
  # Add code to main() function to implement the functions.
