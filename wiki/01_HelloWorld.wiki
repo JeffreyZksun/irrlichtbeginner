@@ -3,8 +3,8 @@
   * Create a C++ win 32 console application. Name it `01.HelloWorld.`
  # Configure the project.
   * General Page
-    * Output Directory = $(SolutionDir)bin\$(ConfigurationName).
-    * Intermediate Directory = $(SolutionDir)bin\$(ProjectName)\$(ConfigurationName)
+    * Output Directory = `$(SolutionDir)bin\$(ConfigurationName)`
+    * Intermediate Directory = `$(SolutionDir)bin\$(ProjectName)\$(ConfigurationName)`
   * C/C++|General Page
     * Additional Include Directories = ..\3p\Irrlicht\include
   * Linker|General Page
