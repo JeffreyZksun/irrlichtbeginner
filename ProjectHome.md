@@ -1,0 +1,3 @@
+The Irrlicht Engine is an open source high performance realtime 3D engine written and usable in C++ and also available for .NET languages. It is completely cross-platform, using D3D, OpenGL and its own software renderer, and has all of the state-of-the-art features which can be found in commercial 3d engines.
+
+Irrlicht.Net is based on Irrlicht 1.7.2, all media and Irrlicht.dll, is from http://irrlicht.sourceforge.net/ .
